@@ -1,0 +1,15 @@
+<!--aboutme.wxml-->
+<view class="container">
+    <view>
+        <image src='../../images/1.png'></image>
+    </view>
+    <view>
+        圆梦云科技有限公司
+    </view>
+    <view>近日，中国航天科技集团有限公司一院、中国航天基金会与WEY品牌正式签署战略合作协议，将在今年进行海上发射的验证火箭命名为“CZ-11 WEY”号。
+这是中国第一枚海上发射火箭，也是长征系列火箭首次与企业品牌联合命名。</view>
+    <view>联系方式</view>
+    <view>地址：北京市海淀区知春路</view>
+    <view>联系电话：13800138000</view>
+    <view>商务合作：asdfsad@123.com</view>
+</view>
